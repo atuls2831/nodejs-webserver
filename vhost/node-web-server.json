@@ -1,0 +1,5 @@
+{
+    "name" : "web app",   
+    "domain" : "www.potato.com" ,
+    "root" : "/root/node-web-server/"
+}

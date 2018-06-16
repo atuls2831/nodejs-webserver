@@ -1,0 +1,5 @@
+{
+    "name" : "tomato app",   
+    "domain" : "www.tomato.com" ,
+    "root" : "/root/hoge1/"
+}

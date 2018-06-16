@@ -1,0 +1,5 @@
+{
+    "name" : "Basic Express App",   
+    "domain" : "www.zomato.com" ,
+    "root" : "/root/basic-express-site-2016-master/"
+}
